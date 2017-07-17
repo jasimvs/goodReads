@@ -24,3 +24,7 @@ Great talks:
 https://changelog.com/posts/rich-hickeys-greatest-hits
 
 
+On automated tests:
+http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html
+
+
