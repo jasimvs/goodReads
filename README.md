@@ -15,7 +15,7 @@ https://github.com/alexandru/scala-best-practices
 https://gist.github.com/jdegoes/97459c0045f373f4eaf126998d8f65dc#file-advanced-fp-with-scala-md
 http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html
 http://degoes.net/articles/modern-fp
-
+http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html
 
 ## Scala treasure trove:
 https://habrahabr.ru/company/golovachcourses/blog/256651/
