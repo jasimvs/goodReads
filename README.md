@@ -18,6 +18,7 @@ A collection of links to good articles, blogs or videos
 * http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html
 
 ## Scala treasure trove:
+* https://github.com/lauris/awesome-scala#learning-scala
 * https://habrahabr.ru/company/golovachcourses/blog/256651/
 
 ## Softtware engineering:
