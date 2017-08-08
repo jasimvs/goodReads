@@ -28,5 +28,6 @@ A collection of links to good articles, blogs or videos
 * https://changelog.com/posts/rich-hickeys-greatest-hits
 * http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html
 * http://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/
+* https://www.linkedin.com/pulse/engineering-personas-casey-rosenthal
 
 
