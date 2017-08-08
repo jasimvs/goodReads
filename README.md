@@ -17,15 +17,16 @@ A collection of links to good articles, blogs or videos
 * http://degoes.net/articles/modern-fp
 * http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html
 
-## Architecture, Methodologies, etc
-* https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
-
 ## Scala treasure trove:
 * https://github.com/lauris/awesome-scala#learning-scala
 * https://habrahabr.ru/company/golovachcourses/blog/256651/
 
+## Architecture, Methodologies, etc
+* https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+
 ## Software engineering:
 * https://changelog.com/posts/rich-hickeys-greatest-hits
 * http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html
+* http://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/
 
 
