@@ -2,32 +2,33 @@
 A collection of links to good articles, blogs or videos
 
 
-## Learning Scala:
+## Learning Scala
 * Venkat Subramaniam's talk: https://www.youtube.com/watch?v=LH75sJAR0hc
 * http://danielwestheide.com/scala/neophytes.html 
 * http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html#just-what-is-a-functor,-really
 * http://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html
 
-## Scala best practices:
+## Scala best practices
 * https://github.com/alexandru/scala-best-practices
 
-## Advanced Scala reads:
+## Advanced Scala reads
 * https://gist.github.com/jdegoes/97459c0045f373f4eaf126998d8f65dc#file-advanced-fp-with-scala-md
 * http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html
 * http://degoes.net/articles/modern-fp
 * http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html
 
-## Scala treasure trove:
+## Scala treasure trove
 * https://github.com/lauris/awesome-scala#learning-scala
 * https://habrahabr.ru/company/golovachcourses/blog/256651/
 
 ## Architecture, Methodologies, etc
-* https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+* Reactive programming: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 
-## Software engineering:
+## Software engineering
 * https://changelog.com/posts/rich-hickeys-greatest-hits
 * http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html
 * http://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/
 * https://www.linkedin.com/pulse/engineering-personas-casey-rosenthal
 
-
+## Entrepreneuship
+* http://degoes.net/articles/engineer-entrepreneur
