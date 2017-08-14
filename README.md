@@ -7,7 +7,6 @@ A collection of links to good articles, blogs or videos
 * http://danielwestheide.com/scala/neophytes.html 
 * http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html#just-what-is-a-functor,-really
 * http://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html
-
 * Book: https://www.manning.com/books/functional-programming-in-scala
 
 ## Scala best practices
