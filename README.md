@@ -1,4 +1,4 @@
-# goodReads
+# Good Reads
 A collection of links to good articles, blogs or videos
 
 
@@ -7,6 +7,8 @@ A collection of links to good articles, blogs or videos
 * http://danielwestheide.com/scala/neophytes.html 
 * http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html#just-what-is-a-functor,-really
 * http://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html
+
+* Book: https://www.manning.com/books/functional-programming-in-scala
 
 ## Scala best practices
 * https://github.com/alexandru/scala-best-practices
@@ -29,6 +31,4 @@ A collection of links to good articles, blogs or videos
 * http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html
 * http://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/
 * https://www.linkedin.com/pulse/engineering-personas-casey-rosenthal
-
-## Entrepreneuship
 * http://degoes.net/articles/engineer-entrepreneur
