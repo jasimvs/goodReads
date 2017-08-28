@@ -5,6 +5,7 @@ A collection of links to good articles, blogs or videos
 ## Learning Scala
 * Venkat Subramaniam's talk: https://www.youtube.com/watch?v=LH75sJAR0hc
 * http://danielwestheide.com/scala/neophytes.html 
+* http://blog.originate.com/blog/2014/06/15/idiomatic-scala-your-options-do-not-match/
 * http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html#just-what-is-a-functor,-really
 * http://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html
 * http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
