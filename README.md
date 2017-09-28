@@ -9,12 +9,11 @@ A collection of links to good articles, blogs or videos
 * http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html#just-what-is-a-functor,-really
 * http://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html
 * http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
+* lazy vals? https://blog.codecentric.de/en/2016/02/lazy-vals-scala-look-hood/
 * Book: https://www.manning.com/books/functional-programming-in-scala
 
 ## Scala best practices
 * https://github.com/alexandru/scala-best-practices
-* http://blog.originate.com/blog/2014/06/15/idiomatic-scala-your-options-do-not-match/
-* lazy vals? https://blog.codecentric.de/en/2016/02/lazy-vals-scala-look-hood/
 
 ## Advanced Scala reads
 * https://gist.github.com/jdegoes/97459c0045f373f4eaf126998d8f65dc#file-advanced-fp-with-scala-md
