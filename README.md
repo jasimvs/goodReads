@@ -13,6 +13,8 @@ A collection of links to good articles, blogs or videos
 
 ## Scala best practices
 * https://github.com/alexandru/scala-best-practices
+* http://blog.originate.com/blog/2014/06/15/idiomatic-scala-your-options-do-not-match/
+* lazy vals? https://blog.codecentric.de/en/2016/02/lazy-vals-scala-look-hood/
 
 ## Advanced Scala reads
 * https://gist.github.com/jdegoes/97459c0045f373f4eaf126998d8f65dc#file-advanced-fp-with-scala-md
