@@ -6,7 +6,7 @@ A collection of links to good articles, blogs or videos
 * Venkat Subramaniam's talk: https://www.youtube.com/watch?v=LH75sJAR0hc
 * http://danielwestheide.com/scala/neophytes.html 
 * http://blog.originate.com/blog/2014/06/15/idiomatic-scala-your-options-do-not-match/
-* http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html#just-what-is-a-functor,-really
+* https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534
 * http://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html
 * http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
 * lazy vals? https://blog.codecentric.de/en/2016/02/lazy-vals-scala-look-hood/
