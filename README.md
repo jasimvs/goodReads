@@ -36,3 +36,4 @@ A collection of links to good articles, blogs or videos
 * http://degoes.net/articles/engineer-entrepreneur
 * https://github.com/mr-mig/every-programmer-should-know
 * https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6
+* https://github.com/binhnguyennus/awesome-scalability
