@@ -4,6 +4,7 @@ A collection of links to good articles, blogs or videos
 
 ## Learning Scala
 * Venkat Subramaniam's talk: https://www.youtube.com/watch?v=LH75sJAR0hc
+* Paul Cleary's talk: https://www.youtube.com/watch?v=CEv9KrjTF8g, https://speakerdeck.com/pauljamescleary/scala-for-the-rest-of-us
 * http://danielwestheide.com/scala/neophytes.html 
 * http://blog.originate.com/blog/2014/06/15/idiomatic-scala-your-options-do-not-match/
 * https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534
