@@ -21,6 +21,7 @@ A collection of links to good articles, blogs or videos
 * http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html
 * http://degoes.net/articles/modern-fp
 * http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html
+* https://gist.github.com/gvolpe/1454db0ed9476ed0189dcc016fd758aa
 
 ## Scala treasure trove
 * https://github.com/lauris/awesome-scala#learning-scala
