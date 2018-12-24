@@ -29,6 +29,10 @@ A collection of links to good articles, blogs or videos
 
 ## Architecture, Methodologies, etc
 * Reactive programming: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
+* https://medium.com/@adhorn/patterns-for-resilient-architecture-part-1-d3b60cd8d2b6
+
+## Monitoring
+* https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit
 
 ## Software engineering
 * https://changelog.com/posts/rich-hickeys-greatest-hits
@@ -39,4 +43,3 @@ A collection of links to good articles, blogs or videos
 * https://github.com/mr-mig/every-programmer-should-know
 * https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6
 * https://github.com/binhnguyennus/awesome-scalability
-* https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
