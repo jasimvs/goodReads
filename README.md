@@ -45,4 +45,5 @@ A collection of links to good articles, blogs or videos
 * https://github.com/binhnguyennus/awesome-scalability
 * https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
 * https://github.com/aphyr/distsys-class/blob/master/README.markdown
+* https://www.sderosiaux.com/articles/2019/08/29/cqrs-why-and-all-the-things-to-consider/
 
