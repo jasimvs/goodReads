@@ -47,6 +47,7 @@ A collection of links to good articles, blogs or videos
 * https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
 * https://github.com/aphyr/distsys-class/blob/master/README.markdown
 
-## Leadership
+## Culture, Leadership
+* https://jobs.netflix.com/culture
 * https://www.quii.dev/Work_2019
 
