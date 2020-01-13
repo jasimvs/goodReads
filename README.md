@@ -48,6 +48,7 @@ A collection of links to good articles, blogs or videos
 * https://github.com/aphyr/distsys-class/blob/master/README.markdown
 
 ## Culture, Leadership
-* https://jobs.netflix.com/culture
-* https://www.quii.dev/Work_2019
+* Agile @ Spotify https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf
+* Netflix culture https://jobs.netflix.com/culture
+* On growing teams https://www.quii.dev/Work_2019
 
