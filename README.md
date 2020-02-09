@@ -14,8 +14,9 @@ A collection of links to good articles, blogs or videos
 * lazy vals? https://blog.codecentric.de/en/2016/02/lazy-vals-scala-look-hood/
 * Book: https://www.manning.com/books/functional-programming-in-scala
 
-## Scala best practices
-* https://github.com/alexandru/scala-best-practices
+## Scala
+* Scala best practices: https://github.com/alexandru/scala-best-practices
+* Scala templates for getting started: https://github.com/foundweekends/giter8/wiki/giter8-templates
 
 ## Advanced Scala
 * https://gist.github.com/jdegoes/97459c0045f373f4eaf126998d8f65dc#file-advanced-fp-with-scala-md
