@@ -49,6 +49,7 @@ A collection of links to good articles, blogs or videos
 * https://github.com/binhnguyennus/awesome-scalability
 * https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
 * https://github.com/aphyr/distsys-class/blob/master/README.markdown
+* Cascading failures: https://www.infoq.com/articles/anatomy-cascading-failure/
 
 ## Culture, Leadership
 * Agile @ Spotify https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf
