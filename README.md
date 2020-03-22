@@ -47,9 +47,14 @@ A collection of links to good articles, blogs or videos
 * https://github.com/mr-mig/every-programmer-should-know
 * https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6
 * https://github.com/binhnguyennus/awesome-scalability
-* https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
 * https://github.com/aphyr/distsys-class/blob/master/README.markdown
 * Cascading failures: https://www.infoq.com/articles/anatomy-cascading-failure/
+
+## Tools, Databases, etc
+* https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
+* https://www.confluent.io/blog/kafka-rebalance-protocol-static-membership/
+* https://facinating.tech/2020/02/22/in-depth-guide-to-running-elasticsearch-in-production/
+* https://blog.softwaremill.com/7-mistakes-when-using-apache-cassandra-51d2cf6df519
 
 ## Culture, Leadership
 * Agile @ Spotify https://blog.crisp.se/wp-content/uploads/2012/11/SpotifyScaling.pdf
