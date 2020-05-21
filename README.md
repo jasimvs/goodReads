@@ -32,8 +32,10 @@ A collection of links to good articles, blogs or videos
 
 ## Architecture, Methodologies, etc
 * Reactive programming: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
-* https://medium.com/@adhorn/patterns-for-resilient-architecture-part-1-d3b60cd8d2b6
+* Resiliency: https://medium.com/@adhorn/patterns-for-resilient-architecture-part-1-d3b60cd8d2b6
 * CQRS: https://www.sderosiaux.com/articles/2019/08/29/cqrs-why-and-all-the-things-to-consider/
+* Domain events and Event sourcing: https://www.innoq.com/en/blog/domain-events-versus-event-sourcing/
+* Cascading failures: https://www.infoq.com/articles/anatomy-cascading-failure/
 
 ## Monitoring
 * https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit
@@ -48,7 +50,6 @@ A collection of links to good articles, blogs or videos
 * https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6
 * https://github.com/binhnguyennus/awesome-scalability
 * https://github.com/aphyr/distsys-class/blob/master/README.markdown
-* Cascading failures: https://www.infoq.com/articles/anatomy-cascading-failure/
 
 ## Tools, Databases, etc
 * https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
