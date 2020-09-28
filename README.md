@@ -51,6 +51,7 @@ A collection of links to good articles, blogs or videos
 * https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6
 * https://github.com/binhnguyennus/awesome-scalability
 * https://github.com/aphyr/distsys-class/blob/master/README.markdown
+* https://www.infoq.com/articles/microservices-design-ideals/
 
 ## Tools, Databases, etc
 * https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
