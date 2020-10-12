@@ -38,6 +38,7 @@ A collection of links to good articles, blogs or videos
 * Domain events and Event sourcing: https://www.innoq.com/en/blog/domain-events-versus-event-sourcing/
 * Cascading failures: https://www.infoq.com/articles/anatomy-cascading-failure/
 * Event Sourcing https://ookami86.github.io/event-sourcing-in-practice/#title.md
+* Event Storming and DDD https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7
 
 ## Monitoring
 * https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit
