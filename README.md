@@ -37,6 +37,7 @@ A collection of links to good articles, blogs or videos
 * CQRS: https://www.sderosiaux.com/articles/2019/08/29/cqrs-why-and-all-the-things-to-consider/
 * Domain events and Event sourcing: https://www.innoq.com/en/blog/domain-events-versus-event-sourcing/
 * Cascading failures: https://www.infoq.com/articles/anatomy-cascading-failure/
+* Event Sourcing https://ookami86.github.io/event-sourcing-in-practice/#title.md
 
 ## Monitoring
 * https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit
