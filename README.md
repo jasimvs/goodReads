@@ -13,15 +13,14 @@ A collection of links to good articles, blogs or videos
 * http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
 * lazy vals? https://blog.codecentric.de/en/2016/02/lazy-vals-scala-look-hood/
 * Book: https://www.manning.com/books/functional-programming-in-scala
+* Adopting FP, Ken Scrambler: https://www.youtube.com/watch?v=vpcKnqyNdSQ
 
 ## Scala
 * Scala best practices: https://github.com/alexandru/scala-best-practices
 * Scala templates for getting started: https://github.com/foundweekends/giter8/wiki/giter8-templates
 
 ## Advanced Scala
-* https://gist.github.com/jdegoes/97459c0045f373f4eaf126998d8f65dc#file-advanced-fp-with-scala-md
 * http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html
-* http://degoes.net/articles/modern-fp
 * http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html
 * https://gist.github.com/gvolpe/1454db0ed9476ed0189dcc016fd758aa
 * from MTL, through tagless, to BIO - Paweł Szulc https://www.youtube.com/watch?v=QM86Ab3lL20
