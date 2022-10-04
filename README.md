@@ -47,12 +47,12 @@ A collection of links to good articles, blogs or videos
 * http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html
 * http://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/
 * https://www.linkedin.com/pulse/engineering-personas-casey-rosenthal
-* http://degoes.net/articles/engineer-entrepreneur
 * https://github.com/mr-mig/every-programmer-should-know
 * https://medium.freecodecamp.org/ten-rules-for-negotiating-a-job-offer-ee17cccbdab6
 * https://github.com/binhnguyennus/awesome-scalability
 * https://github.com/aphyr/distsys-class/blob/master/README.markdown
 * https://www.infoq.com/articles/microservices-design-ideals/
+* Pointless deadlines: https://lucasfcosta.com/2022/09/15/deadlines.html
 
 ## Tools, Databases, etc
 * https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
