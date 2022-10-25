@@ -55,6 +55,7 @@ A collection of links to good articles, blogs or videos
 * https://www.infoq.com/articles/microservices-design-ideals/
 * Pointless deadlines: https://lucasfcosta.com/2022/09/15/deadlines.html
 * Long term plans dont work: https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html
+* Better error messages: https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f
 
 ## Tools, Databases, etc
 * https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
