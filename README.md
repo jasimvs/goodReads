@@ -57,6 +57,7 @@ A collection of links to good articles, blogs or videos
 * Long term plans dont work: https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html
 * Better error messages: https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f
 * Estimation: https://medium.com/agileinsider/estimation-how-can-we-estimate-with-confidence-in-software-delivery-20d8ebc4c5b6
+* Measuring Flow https://betterprogramming.pub/its-mostly-about-the-flow-a-journey-of-transformation-f665419121a7
 
 ## Tools, Databases, etc
 * https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
