@@ -15,6 +15,11 @@ A collection of links to good articles, blogs or videos
 * https://docs.google.com/document/d/199PqyG3UsyXlwieHaqbGiWVa8eMWi8zzAn0YfcApr8Q/edit
 
 ## Software engineering
+* Pointless deadlines: https://lucasfcosta.com/2022/09/15/deadlines.html
+* Long term plans dont work: https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html
+* Better error messages: https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f
+* Estimation: https://medium.com/agileinsider/estimation-how-can-we-estimate-with-confidence-in-software-delivery-20d8ebc4c5b6
+* Measuring Flow https://betterprogramming.pub/its-mostly-about-the-flow-a-journey-of-transformation-f665419121a7
 * https://changelog.com/posts/rich-hickeys-greatest-hits
 * http://www.lihaoyi.com/post/PrinciplesofAutomatedTesting.html
 * http://redmonk.com/fryan/2016/12/12/on-the-myth-of-the-10x-engineer-and-the-reality-of-the-distinguished-engineer/
@@ -24,11 +29,7 @@ A collection of links to good articles, blogs or videos
 * https://github.com/binhnguyennus/awesome-scalability
 * https://github.com/aphyr/distsys-class/blob/master/README.markdown
 * https://www.infoq.com/articles/microservices-design-ideals/
-* Pointless deadlines: https://lucasfcosta.com/2022/09/15/deadlines.html
-* Long term plans dont work: https://lucasfcosta.com/2022/07/15/long-term-plans-dont-work.html
-* Better error messages: https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f
-* Estimation: https://medium.com/agileinsider/estimation-how-can-we-estimate-with-confidence-in-software-delivery-20d8ebc4c5b6
-* Measuring Flow https://betterprogramming.pub/its-mostly-about-the-flow-a-journey-of-transformation-f665419121a7
+
 
 ## Tools, Databases, etc
 * https://www.confluent.io/blog/how-to-choose-the-number-of-topicspartitions-in-a-kafka-cluster/
