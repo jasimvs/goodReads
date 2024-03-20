@@ -1,35 +1,6 @@
 # Good Reads
 A collection of links to good articles, blogs or videos
 
-
-## Learning Scala
-* Venkat Subramaniam's talk: https://www.youtube.com/watch?v=LH75sJAR0hc
-* Paul Cleary's talk: https://www.youtube.com/watch?v=CEv9KrjTF8g, https://speakerdeck.com/pauljamescleary/scala-for-the-rest-of-us
-* Neophytes Guiede to Scala: http://danielwestheide.com/scala/neophytes.html 
-* http://blog.originate.com/blog/2014/06/15/idiomatic-scala-your-options-do-not-match/
-* Rob Norris talk on effects: https://www.youtube.com/watch?v=30q6BkBv5MY
-* https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534
-* http://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html
-* http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
-* lazy vals? https://blog.codecentric.de/en/2016/02/lazy-vals-scala-look-hood/
-* Book: https://www.manning.com/books/functional-programming-in-scala
-* Adopting FP, Ken Scrambler: https://www.youtube.com/watch?v=vpcKnqyNdSQ
-
-## Scala
-* Scala best practices: https://github.com/alexandru/scala-best-practices
-* Scala templates for getting started: https://github.com/foundweekends/giter8/wiki/giter8-templates
-
-## Advanced Scala
-* http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html
-* http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html
-* https://gist.github.com/gvolpe/1454db0ed9476ed0189dcc016fd758aa
-* from MTL, through tagless, to BIO - Paweł Szulc https://www.youtube.com/watch?v=QM86Ab3lL20
-* Awesome explainations by Faio,  https://systemfw.org/writings 
-
-## Scala treasure trove
-* https://github.com/lauris/awesome-scala#learning-scala
-* https://habrahabr.ru/company/golovachcourses/blog/256651/
-
 ## Architecture, Methodologies, etc
 * Reactive programming: https://gist.github.com/staltz/868e7e9bc2a7b8c1f754
 * Resiliency: https://medium.com/@adhorn/patterns-for-resilient-architecture-part-1-d3b60cd8d2b6
@@ -70,3 +41,31 @@ A collection of links to good articles, blogs or videos
 * Netflix culture https://jobs.netflix.com/culture
 * On growing teams https://www.quii.dev/Work_2019
 
+
+## Learning Scala
+* Venkat Subramaniam's talk: https://www.youtube.com/watch?v=LH75sJAR0hc
+* Paul Cleary's talk: https://www.youtube.com/watch?v=CEv9KrjTF8g, https://speakerdeck.com/pauljamescleary/scala-for-the-rest-of-us
+* Neophytes Guiede to Scala: http://danielwestheide.com/scala/neophytes.html 
+* http://blog.originate.com/blog/2014/06/15/idiomatic-scala-your-options-do-not-match/
+* Rob Norris talk on effects: https://www.youtube.com/watch?v=30q6BkBv5MY
+* https://medium.com/@sinisalouc/demystifying-the-monad-in-scala-cc716bb6f534
+* http://blog.bruchez.name/2011/10/scala-partial-functions-without-phd.html
+* http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html
+* lazy vals? https://blog.codecentric.de/en/2016/02/lazy-vals-scala-look-hood/
+* Book: https://www.manning.com/books/functional-programming-in-scala
+* Adopting FP, Ken Scrambler: https://www.youtube.com/watch?v=vpcKnqyNdSQ
+
+## Scala
+* Scala best practices: https://github.com/alexandru/scala-best-practices
+* Scala templates for getting started: https://github.com/foundweekends/giter8/wiki/giter8-templates
+
+## Advanced Scala
+* http://www.lihaoyi.com/post/WartsoftheScalaProgrammingLanguage.html
+* http://blog.bruchez.name/2015/11/generalized-type-constraints-in-scala.html
+* https://gist.github.com/gvolpe/1454db0ed9476ed0189dcc016fd758aa
+* from MTL, through tagless, to BIO - Paweł Szulc https://www.youtube.com/watch?v=QM86Ab3lL20
+* Awesome explainations by Faio,  https://systemfw.org/writings 
+
+## Scala treasure trove
+* https://github.com/lauris/awesome-scala#learning-scala
+* https://habrahabr.ru/company/golovachcourses/blog/256651/
